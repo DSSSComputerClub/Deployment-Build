@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Deployment-Build/static/css/main.f76889ae.chunk.css",
-    "main.js": "/Deployment-Build/static/js/main.05277fb3.chunk.js",
-    "runtime-main.js": "/Deployment-Build/static/js/runtime-main.c0884d92.js",
+    "main.js": "/Deployment-Build/static/js/main.6270a7aa.chunk.js",
+    "runtime-main.js": "/Deployment-Build/static/js/runtime-main.40355783.js",
     "static/css/2.24686454.chunk.css": "/Deployment-Build/static/css/2.24686454.chunk.css",
-    "static/js/2.f0e5fe63.chunk.js": "/Deployment-Build/static/js/2.f0e5fe63.chunk.js",
+    "static/js/2.7a7c4221.chunk.js": "/Deployment-Build/static/js/2.7a7c4221.chunk.js",
     "index.html": "/Deployment-Build/index.html",
-    "static/js/2.f0e5fe63.chunk.js.LICENSE.txt": "/Deployment-Build/static/js/2.f0e5fe63.chunk.js.LICENSE.txt",
+    "static/js/2.7a7c4221.chunk.js.LICENSE.txt": "/Deployment-Build/static/js/2.7a7c4221.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/Deployment-Build/static/media/OpenSans-SemiBoldItalic.63afadba.ttf",
     "static/media/backend.bbcddab5.jfif": "/Deployment-Build/static/media/backend.bbcddab5.jfif",
     "static/media/database.5d64aec1.jpg": "/Deployment-Build/static/media/database.5d64aec1.jpg",
@@ -14,10 +14,10 @@
     "static/media/webdev.b503c7a7.jpg": "/Deployment-Build/static/media/webdev.b503c7a7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0884d92.js",
+    "static/js/runtime-main.40355783.js",
     "static/css/2.24686454.chunk.css",
-    "static/js/2.f0e5fe63.chunk.js",
+    "static/js/2.7a7c4221.chunk.js",
     "static/css/main.f76889ae.chunk.css",
-    "static/js/main.05277fb3.chunk.js"
+    "static/js/main.6270a7aa.chunk.js"
   ]
 }
